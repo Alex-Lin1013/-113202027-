@@ -1,0 +1,70 @@
+{
+  "id": "htk-general",
+  "name": "行天宮助學金（大專組）",
+  "organization": "行天宮文教發展促進基金會",
+  "period": "115-1",
+  "category": "清寒助學",
+  "amount": "經評選每名8,000～10,000元",
+  "eligibility": [
+    "國內大專在學生含五專四、五年級；年滿25歲、研究所、延修、軍警、進修或推廣等不列入。",
+    "家庭主要經濟負擔者死亡、傷病、失蹤、服刑、身障、災難，或單親、隔代、特境、扶養眾多等長期困難，致就學困難。",
+    "一戶一名原則；符合資格子女4人以上得增一名。不是持中低收就自動錄取。"
+  ],
+  "documents": [
+    {
+      "id": "d1",
+      "name": "申請書及黏貼表",
+      "detail": "115-1公告指定1150715修訂版，完整填寫、簽名。"
+    },
+    {
+      "id": "d2",
+      "name": "學生證／在學證明",
+      "detail": "當學期註冊證明。"
+    },
+    {
+      "id": "d3",
+      "name": "全戶戶籍謄本",
+      "detail": "近3個月含記事。"
+    },
+    {
+      "id": "d4",
+      "name": "本人存摺影本",
+      "detail": "不可使用凍結、警示或結清戶。"
+    },
+    {
+      "id": "d5",
+      "name": "經濟與變故證明",
+      "detail": "辦法第(五)(六)款依實際狀況提供，非每人每項皆必交。"
+    }
+  ],
+  "method": "申請者Excel資料Email登錄，另寄紙本至行天宮；個人或學校均可，校內截止另問。",
+  "background": "扶助因家庭經濟或變故影響就學者，避免失學。",
+  "tips": [
+    "電子登錄和紙本寄送分開確認。",
+    "先查年齡與學籍，再辦有時效的文件。"
+  ],
+  "sources": [
+    {
+      "title": "行天宮助學金（大專組）：官方／學校依據",
+      "publisher": "行天宮五大志業網",
+      "url": "https://www.ht.org.tw/news454.htm",
+      "readDate": "2026-11-14"
+    },
+    {
+      "title": "助學金實施辦法",
+      "publisher": "行天宮",
+      "url": "https://www.ht.org.tw/religion153.htm",
+      "readDate": "2026-11-14"
+    }
+  ],
+  "deadline": "2026-09-30",
+  "schoolDeadline": null,
+  "referenceSchool": null,
+  "deadlineNote": "大專組郵戳為憑；辦法另見下一來源。",
+  "reviewStatus": "source-reviewed",
+  "verifiedBy": null,
+  "verifiedAt": null,
+  "limitations": [
+    "申請前須回原公告核對當期版本與附件；本站不替代資格審查。"
+  ]
+}
